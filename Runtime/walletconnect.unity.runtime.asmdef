@@ -2,7 +2,7 @@
     "name": "WalletConnect.unity.runtime",
     "rootNamespace": "",
     "references": [
-        "GUID:47a6419234171834491ba0f130f904f7"
+        "GUID:e3bb573a6ff80af438bf2fe1356c5f38"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

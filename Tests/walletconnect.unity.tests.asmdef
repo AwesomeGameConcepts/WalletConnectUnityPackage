@@ -2,8 +2,8 @@
     "name": "WalletConnect.unity.test",
     "rootNamespace": "",
     "references": [
-        "GUID:47a6419234171834491ba0f130f904f7",
-        "GUID:9d837b4f52552f74d87e96a30b899c1c"
+        "GUID:699e953a1e6ee5c42afc4a512d0b6d4d",
+        "GUID:e3bb573a6ff80af438bf2fe1356c5f38"
     ],
     "includePlatforms": [
         "Editor"
