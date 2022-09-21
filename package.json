@@ -1,6 +1,6 @@
 {
   "name": "com.walletconnect.unity",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "Wallet Connect Unity",
   "description": "This package is an extension of WalletConnectSharp that brings WalletConnect to Unity.",
   "unity": "2017.1",
@@ -15,8 +15,8 @@
     "WalletConnect"
   ],
   "author": {
-    "name": "Wallet Connect & AwesomeGameConcepts",
-    "email": "contact@awesomegameconcepts.com",
-    "url": "awesomegameconcepts.com"
+    "name": "Wallet Connect",
+    "email": "contact@walletconnect.com",
+    "url": "https://walletconnect.com/"
   }
 }
